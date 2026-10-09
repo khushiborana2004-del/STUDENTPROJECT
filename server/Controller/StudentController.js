@@ -19,7 +19,7 @@ const StudentController={
     },
     Update(req,res){
         res.send({
-            message:"Success! record has been updated.:",
+            message:"Success! record has been updated today.:",
         });
     },
     destroy(req,res){
